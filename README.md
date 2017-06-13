@@ -1,2 +1,2 @@
 # NLPPractice
-NLP practicals
+NLP practicals with basic implementations of some NLP algorithms and models.
